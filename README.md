@@ -1,4 +1,4 @@
-I am started my learning on arudino and micropython in upcoming days. I am posting my learning journey via this Github
+I am started my learning on arudino and micropython in upcoming days. I am posting my learning journey via this Github. I am challenging myself to complete all this with in week. Day 1 (17-11-2024 to 24-11-2024)
 #### **Basic Projects:**
 1. **Blinking LED**:
    - Components: LED, Resistor, Arduino/ESP32 board
